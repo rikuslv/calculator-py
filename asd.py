@@ -1,7 +1,5 @@
 print("calculator on pythone")
 
-
-
 num = float(input("Enter first number: "))
 num1 = float(input("Enter secend number: "))
 
